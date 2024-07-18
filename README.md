@@ -10,7 +10,7 @@
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
 # Supported Clients
-- Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Vanilla, Badlion.
+- Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Lunar, Badlion.
 - The only versions that are supported are: 1.8.9.
 
 # Features
