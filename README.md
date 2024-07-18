@@ -13,5 +13,5 @@
 
 # Easy to Inject
 - You can simply inject it with any Injector you like to use.
-- I recommend the this Injectr: ("Fate-Injector" from "Fligger")[https://github.com/fligger/FateInjector] its really good and easy to use.
+- I recommend the this Injectr: ["Fate-Injector" from "Fligger"](https://github.com/fligger/FateInjector) its really good and easy to use.
 - Oxy Injector with auto update will come later.
