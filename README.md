@@ -2,7 +2,7 @@
 
 # Repository Information:
 <p align="left">
-  <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
+  <img src="https://img.shields.io/github/languages/code-size/Oxy-Client.svg" alt="code size"/>
   <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="java"/>
 </p>
 
