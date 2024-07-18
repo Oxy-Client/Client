@@ -3,7 +3,6 @@
 # Repository Information:
 <p align="left">
   <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
-  <img src="https://tokei.rs/b1/github/Oxy-Client/Client?moduleCategory=code" alt="total lines"/>
   <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="java"/>
 </p>
 
