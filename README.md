@@ -1,5 +1,12 @@
 # Injectable Minecraft 1.8.9 Client called "Oxy"
 
+# Repository Information:
+<p align="left">
+  <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
+  <img src="https://tokei.rs/b1/github/Oxy-Client/Client?moduleCategory=code" alt="total lines"/>
+  <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="java"/>
+</p>
+
 # Supported Clients
 - Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Vanilla, Badlion.
 - The only versions that are supported are: 1.8.9.
