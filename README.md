@@ -2,7 +2,7 @@
 
 # Supported Clients
 - Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Vanilla, Badlion.
-- The only versions that are supported are: 1.8.9
+- The only versions that are supported are: 1.8.9.
 
 # Features
 - Screenshare prove / OBS and Discord share with extra feature called: "Fake Cursor" to hide the cursor when your in the gui while screen sharing.
@@ -15,3 +15,5 @@
 - You can simply inject it with any Injector you like to use.
 - I recommend the this Injectr: ["Fate-Injector" from "Fligger"](https://github.com/fligger/FateInjector) its really good and easy to use.
 - Oxy Injector with auto update will come later.
+
+###### Signed from SleepyFish.
