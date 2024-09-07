@@ -1,8 +1,8 @@
 # Injectable Minecraft 1.8.9 Client called "Oxy"
 
 # Repository Information:
-Code size: 7.75 MB
-Language: 78% C++, 20% C, 2% CMake
+- Code size: 7.75 MB
+- Language: 78% C++, 20% C, 2% CMake
 
 # Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
