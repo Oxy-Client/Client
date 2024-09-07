@@ -1,10 +1,8 @@
 # Injectable Minecraft 1.8.9 Client called "Oxy"
 
 # Repository Information:
-<p align="left">
-  <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
-  <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="cpp"/>
-</p>
+Code size: 7.75 MB
+Language: 78% C++, 20% C, 2% CMake
 
 # Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
