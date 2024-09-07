@@ -1,8 +1,5 @@
 # Injectable Minecraft 1.8.9 Client called "Oxy"
 
-## Discord Server
-<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
-
 ## Supported Clients
 - Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Lunar, Badlion.
 - The only versions that are supported are: 1.8.9.
@@ -23,5 +20,8 @@
 ## Repository Information:
 - Code size: 7.75 MB
 - Language: 78% C++, 20% C, 2% CMake
+
+## Discord Server
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
 ###### Signed from SleepyFish.
