@@ -1,8 +1,12 @@
 # Injectable Minecraft 1.8.9 Client called "Oxy"
 
 ## Supported Clients
-- Injectable in a wide range of clients such as: Vanilla, Forge, Feather, Lunar, Badlion.
-- The only versions that are supported are: 1.8.9.
+- Injectable in a wide range of clients such as:
+- Vanilla 1.8.9
+- Forge Mod Loader 1.8.9
+- Feather Client 1.8.9
+- Lunar Client 1.8.9
+- Badlion Client 1.8.9
 
 ## Features
 - Screenshare prove / OBS and Discord share with extra feature called: "Fake Cursor" to hide the cursor when your in the gui while screen sharing.
@@ -24,4 +28,4 @@
 ## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
-###### Signed from SleepyFish.
+###### Signed by SleepyFish.
