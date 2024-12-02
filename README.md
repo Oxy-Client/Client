@@ -1,7 +1,7 @@
 # Premium Injectable Minecraft 1.8.9 Client called "Oxy"
 
 ## Supported Clients
-- Injectable in a wide range of clients such as:
+### Injectable in a wide range of clients such as:
 - Vanilla 1.8.9 (Maybe Unstable)
 - Forge Mod Loader 1.8.9 (Maybe Unstable)
 - Feather Client 1.8.9
