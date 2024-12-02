@@ -11,7 +11,7 @@
 ## Features
 - Performance Mode
 - User Friendly and Clean Interface
-- Screenshare proof (obs and discord) with extra feature called: "Fake Cursor" to hide the cursor when your in the gui.
+- Screenshare proof (obs and discord) and feature: "Fake Cursor" to hide the cursor when your in the gui.
 - Easy to use "Detach" feature also called "Un-Inject" to completly remove Oxy from the injected programm.
 - Legit Checks for Rotations and Keybinds to stay undetected.
 - Easy to use Modules with much and good default settings.
