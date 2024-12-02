@@ -24,7 +24,7 @@
 
 ## Repository Information:
 - Code size:
-- - 7.75 MB (P-v1.5.0)
+  - 7.75 MB (P-v1.5.0)
   - 7.02 MB (P-v1.6.0)
 - Language: 78% C++, 20% C, 2% CMake
 
