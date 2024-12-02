@@ -2,8 +2,8 @@
 
 ## Supported Clients
 - Injectable in a wide range of clients such as:
-- Vanilla 1.8.9
-- Forge Mod Loader 1.8.9
+- Vanilla 1.8.9 (Maybe Unstable)
+- Forge Mod Loader 1.8.9 (Maybe Unstable)
 - Feather Client 1.8.9
 - Lunar Client 1.8.9
 - Badlion Client 1.8.9
