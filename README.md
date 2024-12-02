@@ -13,9 +13,9 @@
 - Injectable in a wide range of clients
 - Easy to use Modules with much and good default settings.
 - Legit Checks for Rotations and Keybinds to stay undetected.
+- "Detach" feature, (also called "Un-Inject") to completly remove Oxy from the injected programm.
 - Screenshare proof (obs and discord) and feature: "Fake Cursor" to hide the cursor when your in the gui.
-- Easy to use "Detach" feature also called "Un-Inject" to completly remove Oxy from the injected programm.
-- Easy to use "Middle Click" when its enabled and you add someone it will automatically ignore it from every module.
+- "Middle Click" feature, when its enabled and you add someone it will automatically ignore it from every module.
 
 ## Easy to Inject
 - You can simply inject it with any Injector you like to use.
