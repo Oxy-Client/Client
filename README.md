@@ -23,10 +23,12 @@
 - Oxy Injector: [Unstable Oxy-Injector](https://github.com/Oxy-Client/Injector/releases/latest).
 
 ## Repository Information:
+- Made with MSVC-Toolchains
+- Made with CLion 2024.1, CMake
+- Language: 78% C++, 20% C, 2% CMake
 - Code size:
   - 7.75 MB (P-v1.5.0)
   - 9.09 MB (P-v1.6.0)
-- Language: 78% C++, 20% C, 2% CMake
 
 ## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
