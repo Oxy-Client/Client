@@ -26,7 +26,7 @@
 - Made with MSVC-Toolchains
 - Made with CLion 2024.1, CMake
 - Language: 78% C++, 20% C, 2% CMake
-- Code size:
+- Source Un-Compiled code size:
   - 7.75 MB (P-v1.5.0)
   - 9.09 MB (P-v1.6.0)
 
