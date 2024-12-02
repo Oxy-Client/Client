@@ -1,4 +1,4 @@
-# Injectable Minecraft 1.8.9 Client called "Oxy"
+# Premium Injectable Minecraft 1.8.9 Client called "Oxy"
 
 ## Supported Clients
 - Injectable in a wide range of clients such as:
