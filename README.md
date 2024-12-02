@@ -1,7 +1,6 @@
 # Premium Injectable Minecraft 1.8.9 Client called "Oxy"
 
 ## Supported Clients
-### Injectable in a wide range of clients such as:
 - Vanilla 1.8.9 (Maybe Unstable)
 - Forge Mod Loader 1.8.9 (Maybe Unstable)
 - Feather Client 1.8.9
@@ -11,10 +10,11 @@
 ## Features
 - Performance Mode
 - User Friendly and Clean Interface
+- Injectable in a wide range of clients
+- Easy to use Modules with much and good default settings.
+- Legit Checks for Rotations and Keybinds to stay undetected.
 - Screenshare proof (obs and discord) and feature: "Fake Cursor" to hide the cursor when your in the gui.
 - Easy to use "Detach" feature also called "Un-Inject" to completly remove Oxy from the injected programm.
-- Legit Checks for Rotations and Keybinds to stay undetected.
-- Easy to use Modules with much and good default settings.
 - Easy to use "Middle Click" when its enabled and you add someone it will automatically ignore it from every module.
 
 ## Easy to Inject
